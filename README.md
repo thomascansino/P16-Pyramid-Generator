@@ -1,1 +1,1 @@
-# Pyramid-Generator-P16
+# Pyramid-Generator-16th Project
